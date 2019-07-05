@@ -62,12 +62,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Troféu Preguinho`,
+        short_name: `Preguinho`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
+        background_color: `#373737`,
+        theme_color: `#373737`,
+        display: `standalone`,
         icon: `content/assets/gatsby-icon.png`,
       },
     },

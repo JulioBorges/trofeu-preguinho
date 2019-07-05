@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, withPrefix } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -11,9 +11,13 @@ class NotFoundPage extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="404: Not Found" />
-        <h1>Not Found</h1>
-        <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+        <SEO title="404: Página não encontrada" />
+        <h1>Página não encontrada</h1>
+        <div>
+          <img src={withPrefix('Martelando.gif')} alt={'Campeão'}>
+          </img>
+        </div>
+        <p>Esse preguinho foi top mesmo hein !!!. Infelizmente esta página não foi encontrada</p>
       </Layout>
     )
   }

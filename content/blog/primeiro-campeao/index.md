@@ -1,7 +1,7 @@
 ---
 title: O Primeiro Campeão !
 date: "2019-07-04T10:00:00.121Z"
-description: sadasdasd
+description: O prioneiro dos preguinhos foi anunciado, conheça um pouco mais sobre este prego épico.
 ---
 
 E finalmente começamos a avaliação do Troféu preguinho.

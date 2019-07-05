@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "trofeu-preguinho",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Site do troféu Preguinho",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Julio Borges <borges.juliocezar@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/JulioBorges/trofeu-preguinho/issues"
   },
   "dependencies": {
     "gatsby": "^2.13.1",

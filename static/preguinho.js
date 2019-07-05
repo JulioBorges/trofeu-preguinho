@@ -1,4 +1,9 @@
-//Fireworks - http://www.btinternet.com/~kurt.grigg/javascript
+/*
+Incluir no head do index.html da pasta public após o build:
+
+<script src="preguinho.js"></script>
+
+*/
 
 if ((document.getElementById) &&
 window.addEventListener || window.attachEvent){
